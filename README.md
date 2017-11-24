@@ -1,10 +1,8 @@
 # AcadGild_BD_Assignment5.1
 We have employee_details and employee_expenses files. Use local mode while running Pig and
 write Pig Latin script to get below results:
-https://github.com/prateekATacadgild/DatasetsForCognizant/blob/master/employee_details.t
-xt
-https://github.com/prateekATacadgild/DatasetsForCognizant/blob/master/employee_expense
-s.txt
+https://github.com/prateekATacadgild/DatasetsForCognizant/blob/master/employee_details.txt
+https://github.com/prateekATacadgild/DatasetsForCognizant/blob/master/employee_expenses.txt
 (a) Top 5 employees (employee id and employee name) with highest rating. (In case two
 employees have same rating, employee with name coming first in dictionary should get
 preference)
